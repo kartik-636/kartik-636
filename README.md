@@ -91,8 +91,8 @@ A full-stack application designed to help users manage their **income, expenses,
 
 <br>
 
-<a href="YOUR_FINANCEFLOW_REPO">
-<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/kartik-636/FinanceFloww">
+<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -122,8 +122,8 @@ An AI-powered platform designed to help students and job seekers prepare for tec
 
 <br>
 
-<a href="YOUR_INTERVIEWBRIDGE_REPO">
-<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/kartik-636/InterviewBridgee">
+<img src="https://img.shields.io/badge/📂%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
